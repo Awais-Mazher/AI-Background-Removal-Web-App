@@ -1,7 +1,7 @@
 import logo from './logo.svg'
 import logo_icon from './logo_icon.svg'
 import arrow_icon from './arrow_icon.svg'
-import header_img from './header_img.png'
+import hero_img from './hero_img.jpg'
 import remove_bg_icon from './remove_bg_icon.svg'
 import upload_btn_icon from './upload_btn_icon.svg'
 import upload_icon from './upload_icon.svg'
@@ -19,7 +19,7 @@ export const assets = {
     logo,
     logo_icon,
     arrow_icon,
-    header_img,
+    hero_img,
     remove_bg_icon,
     upload_icon,
     download_icon,

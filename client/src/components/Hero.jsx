@@ -25,7 +25,7 @@ const Hero = () => {
       {/* -------Right Side------- */}
 
       <div className='w-96 max-w-md'>
-        <img src={assets.header_img} alt="hero-image" />
+        <img src={assets.hero_img} alt="hero-image" />
       </div>
 
     </div>
